@@ -1,4 +1,4 @@
-# MusicalTimeMachine
+# Musical Time Machine
 Spotify Playlist creator using Python created as part of Python Bootcamp by LondonAppBrewery of Dr.Angela Yu
 
 <b>
